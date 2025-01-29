@@ -3,7 +3,9 @@
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
+    --color-button-restart: #4B69FD;
     --color-button-hover: #e55720;
+    --color-button-restart-hover: #153bfd;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -160,3 +162,23 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-restart {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 12px 40px;
+    margin-top: 2rem;
+    color: var(--color-white);
+    background-color: var(--color-button-restart);
+    font-size: 16px;
+}
+
+.button-restart img {
+    margin-right: 40px;
+}
+
+.button-restart:hover {
+    background-color: var(--color-button-restart-hover);
+}
+
