@@ -3,15 +3,11 @@
 
 # Descrição
 <p>
-  Desafio proposto pela <a href="https://www.alura.com.br/" target="_parent">ALURA</a>
-  para praticar lógica de programação com javascript, o desafio consistem em criar uma plataforma que realizar sorteio de Amigo Secreto de maneira simples e prática.
-  A ferramenta permitirá que usuários insira o nome do participantes criando uma lista e em seguida façam o sorteio do amigo secreto,
-  exibindo o nome sorteado.
-
-
-
-  
+  Desafio proposto pela <a href="https://www.alura.com.br/" target="_parent">ALURA</a> para praticar lógica de programação com JavaScript, o desafio consiste em criar uma plataforma que realize sorteio de Amigo Secreto 
+  de maneira simples e prática. A ferramenta permitirá que 
+  os usuários insiram os nomes dos participantes, criando uma lista; em seguida, farão o sorteio do amigo secreto, exibindo o nome sorteado. 
 </p>
+
 
 # Funcionalidades
 
