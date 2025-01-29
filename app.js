@@ -28,7 +28,6 @@ function addAmigo () {
     limparInput();
    };
 
-   console.log(listAmigos);
 };
 
 
